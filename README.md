@@ -1,5 +1,14 @@
 # 💫 About Me:
-Hi, I’m Abhishek Jangid<br><br>I am a Computer Science Engineering student with interests in:<br><br>Data Structures & Algorithms (C++ and Python)<br><br>Machine Learning, Deep Learning, and Data Analytics<br><br>Backend development and production-grade application design<br><br>Financial data, trading systems, and algorithmic insights (Nasdaq & XAUUSD)<br><br>What I’m Working On<br><br>Switching my DSA practice from Python to modern C++<br><br>Solving LeetCode problems daily to strengthen problem-solving<br><br>Building small AI tools and analytics utilities<br><br>Exploring ideas for fintech and AI-based SaaS products<br><br>Technologies I Use<br><br>Languages: C++, Python, JavaScript<br><br>Tools/Frameworks: Pandas, NumPy, React, Node.js<br><br>Domains: ML/AI, Data Engineering, Financial analytics<br><br>Goals<br><br>Create production-ready applications<br><br>Build strong fundamentals in algorithms and system design<br><br>Work on AI-enabled financial products and automation tools
+About Me
+
+👋 Hi, I’m Abhishek Jangid
+💻 CSE student | Passionate about DSA, ML, and AI
+🧠 Switching DSA practice from Python → C++
+📚 Solving LeetCode and strengthening problem-solving
+🤖 Interested in AI tools, automation, and fintech products
+📊 Love working with Python, C++, Pandas, NumPy
+🚀 Building projects that combine software + data
+🎯 Goal: Create production-level applications
 
 
 # 💻 Tech Stack:
