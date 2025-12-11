@@ -1,14 +1,15 @@
 # 💫 About Me:
 About Me
 
-👋 Hi, I’m Abhishek Jangid
-💻 CSE student | Passionate about DSA, ML, and AI
-🧠 Switching DSA practice from Python → C++
-📚 Solving LeetCode and strengthening problem-solving
-🤖 Interested in AI tools, automation, and fintech products
-📊 Love working with Python, C++, Pandas, NumPy
-🚀 Building projects that combine software + data
-🎯 Goal: Create production-level applications
+👋 Hi, I’m Abhishek Jangid <br>
+💻 CSE student | Passionate about DSA, ML, and AI <br>
+🧠 Switching DSA practice from Python → C++ <br>
+📚 Solving LeetCode and strengthening problem-solving <br>
+🤖 Interested in AI tools, automation, and fintech products <br>
+📊 Love working with Python, C++, Pandas, NumPy <br>
+🚀 Building projects that combine software + data <br>
+🎯 Goal: Create production-level applications <br>
+
 
 
 # 💻 Tech Stack:
