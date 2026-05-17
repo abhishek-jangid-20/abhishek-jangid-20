@@ -1,25 +1,142 @@
-# 💫 About Me:
-About Me
+# 👨‍💻 Abhishek Jangid
 
-👋 Hi, I’m Abhishek Jangid <br>
-💻 CSE student | Passionate about DSA, ML, and AI <br>
-🧠 Switching DSA practice from Python → C++ <br>
-📚 Solving LeetCode and strengthening problem-solving <br>
-🤖 Interested in AI tools, automation, and fintech products <br>
-📊 Love working with Python, C++, Pandas, NumPy <br>
-🚀 Building projects that combine software + data <br>
-🎯 Goal: Create production-level applications <br>
+🚀 CSE Undergraduate | AI/ML Developer | Full Stack Engineer | DSA Enthusiast
 
+I build production-ready applications combining Machine Learning, AI systems, and scalable backend architectures.
 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhishek-jangid-20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abhishek-jangid-20&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-jangid-20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+* 🧠 Solved 400+ DSA problems on LeetCode
+* 📈 LeetCode Contest Rating: 1645
+* 🤖 Focused on AI Agents, ML Systems, and Backend Engineering
+* ⚡ Building real-time and ML-powered applications
+* 🌱 Currently exploring LLM orchestration and advanced deep learning
+* 🎯 Goal: Become a world-class AI Engineer and Software Developer
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhishek-jangid-20&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🔗 Connect With Me
+
+* 💼 LinkedIn: [www.linkedin.com/in/abhishekjangid20](http://www.linkedin.com/in/abhishekjangid20)
+* 💻 GitHub: https://github.com/abhishek-jangid-20
+* 📧 Email: [jangida170@gmail.com](mailto:jangida170@gmail.com)
+* 🧠 LeetCode: https://leetcode.com/u/abhishek_jangid_20/
+
+---
+
+# ⚙️ Tech Stack
+
+### Languages
+
+C++ • Python • JavaScript • SQL • Java
+
+### AI / Machine Learning
+
+TensorFlow • PyTorch • Scikit-Learn • Keras • CNN • RNN • LSTM • Transfer Learning • EDA • Feature Engineering • Predictive Modeling
+
+### Backend Development
+
+FastAPI • Node.js • Express.js • REST APIs • WebSockets • Socket.io • JWT • OAuth2 • Pydantic
+
+### Frontend
+
+React.js • Redux Toolkit • Tailwind CSS • Angular • HTML • CSS
+
+### Databases & Tools
+
+MongoDB • MySQL • Docker • Git • Linux • Render • Vercel • Railway • Cloudinary
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 AgentChat — Multi-Agent AI Chat Platform
+
+> Real-time AI chat system with multiple AI agents communicating simultaneously.
+
+### Tech
+
+React • Node.js • MongoDB • Socket.io • OpenAI SDK • Groq • Llama
+
+### Features
+
+* Real-time WebSocket communication
+* Multi-agent orchestration
+* Mention-based agent routing
+* Dynamic AI message routing
+* Multi-turn conversational memory
+
+---
+
+## 📚 StudyNotion — Full Stack EdTech Platform
+
+> Full-featured online learning platform with authentication, payments, and course management.
+
+### Tech
+
+React • Redux • Node.js • Express • MongoDB • Razorpay • Cloudinary
+
+### Features
+
+* JWT Authentication
+* OTP Email Verification
+* Role-Based Access Control
+* Course Purchase System
+* Ratings & Reviews
+
+---
+
+## 🤖 Notebook AI Coding Assistant
+
+> Chrome extension bringing AI assistance directly into Jupyter and Colab environments.
+
+### Features
+
+* OpenAI + Gemini + Groq integration
+* Works inside Jupyter Notebook & Colab
+* Accelerates ML experimentation workflows
+* Multi-model AI support
+
+---
+
+## ⚡ FastAPI ML Model Serving
+
+> Production-ready REST APIs serving ML and Deep Learning models.
+
+### Features
+
+* FastAPI deployment pipelines
+* Swagger/OpenAPI documentation
+* Pydantic validation
+* ML inference endpoints
+* Cloud deployment on Render
+
+---
+
+# 📊 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=abhishek-jangid-20\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhishek-jangid-20\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-jangid-20\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+# 🏆 Achievements
+
+* ✅ Solved 400+ DSA problems
+* ✅ Built and deployed 5+ production-level projects
+* ✅ Strong foundation in Deep Learning and ML systems
+* ✅ Experience with AI integrations and backend systems
+* ✅ Consistent learner focused on real-world engineering
+
+---
+
+# 📌 Current Focus
+
+```cpp
+while(!success) {
+    learn();
+    build();
+    improve();
+}
+```
